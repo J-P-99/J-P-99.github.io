@@ -1,0 +1,16 @@
+---
+layout: post
+title: A Test Post By Myself
+date: 2022-01-01 11:12:00-0400
+description: This is a first trial blog most with some math
+tags: First Post
+categories: sample-posts
+---
+This is a test for writing a blog post onto my new website. In this blog I can:
+\begin{aligned}
+V(s) &= u(x) + \beta V(s') \\
+s.t.~&~ s' = s - x
+
+\end{aligned}.
+
+Now this will be impressive if it works.
