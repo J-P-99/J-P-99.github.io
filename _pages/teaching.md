@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 permalink: /teaching/
 title: teaching
@@ -7,4 +7,5 @@ nav: true
 ---
 
 # Teaching
-I am not doing any teaching. Lets see if this updates. 
+I am not doing any teaching. Lets see if this updates.  -->
+<!-- Removed as I am not teaching -->
