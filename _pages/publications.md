@@ -3,6 +3,7 @@ layout: page
 permalink: /papers/
 title: papers
 description: Papers by categories in reversed chronological order.
+years: [2021, 2022]
 nav: true
 ---
 <!-- _pages/publications.md -->
